@@ -14,7 +14,7 @@ Six auditable categories, which over time will **encompass over 200 checks**.
 
 |   Performance   |  Accessibility |  Best Practices |     SEO        |   Content     |    Security   | 
 | :-------------: | :-------------:| :-------------: | :-------------:|:-------------:|:-------------:|
-| ![Performance](https://raw.githubusercontent.com/wizardcompass/.github/refs/heads/main/profile/gauge.svg) | ![Accessibility](https://raw.githubusercontent.com/wizardcompass/.github/refs/heads/main/profile/accessibility_new.svg) | ![Best Practices](https://raw.githubusercontent.com/wizardcompass/.github/refs/heads/main/profile/star.svg) | ![SEO](https://raw.githubusercontent.com/wizardcompass/.github/refs/heads/main/profile/seo.svg) | ![Content](https://raw.githubusercontent.com/wizardcompass/.github/refs/heads/main/profile/content.svg) | ![Security](https://raw.githubusercontent.com/wizardcompass/.github/refs/heads/main/profile/security.svg) | 
+| ![Performance](https://raw.githubusercontent.com/wizardcompass/.github/refs/heads/main/profile/gauge.svg) | ![Accessibility](https://raw.githubusercontent.com/wizardcompass/.github/refs/heads/main/profile/accessibility_new.svg?v=2) | ![Best Practices](https://raw.githubusercontent.com/wizardcompass/.github/refs/heads/main/profile/star.svg?v=2) | ![SEO](https://raw.githubusercontent.com/wizardcompass/.github/refs/heads/main/profile/seo.svg) | ![Content](https://raw.githubusercontent.com/wizardcompass/.github/refs/heads/main/profile/content.svg) | ![Security](https://raw.githubusercontent.com/wizardcompass/.github/refs/heads/main/profile/security.svg) | 
 
 
 ## Our believes

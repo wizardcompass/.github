@@ -33,7 +33,6 @@ Mozilla/5.0 (compatible; WizardCompassBot/1.0; +https://github.com/wizardcompass
 
 - **Respectful:** We strictly adhere to `robots.txt` rules (both standard and wildcards).
 - **Low Impact:** Our crawler operates at a low request rate to ensure no impact on your server performance.
-    
 - **Non-Intrusive:** We do not fill out forms, attempt logins, or access private data. We only analyze public-facing HTML, CSS, and manifest files.
     
 
@@ -45,7 +44,9 @@ We are likely crawling your site because:
 2. A link to your site was found on a partner directory or public repository.
 3. We are updating our database of web technologies to track the adoption of new frameworks or tools.
     
-**Benefit to you:** Being indexed by Wizard Compass ensures your business is correctly categorized in our market intelligence datasets, which are used by researchers and businesses to discover tools, partners, and competitors.
+**Benefit to you:**
+1.  **Market Visibility:** Being indexed ensures your business is correctly categorized in our market intelligence datasets, helping researchers and partners discover your tools.
+2.  **Free Technical Intelligence:** We operate on a value-exchange model. If we crawl your site, you are eligible to receive the raw technical, accessibility, and performance data we collected—completely free. See [**Data Access & Transparency**](#data-access--transparency) below for details.
 
 ### **4. How to Control WizardCompassBot**
 
@@ -69,6 +70,21 @@ While our core indexing engine is proprietary, we are committed to contributing 
 - **GitHub:** [github.com/wizardcompass](https://github.com/wizardcompass)
 - **Website:** [wizardcompass.com](https://wizardcompass.com)
 
+## Data Access & Transparency
+
+We believe that the data we collect about the web should be accessible to the people who build it. If WizardCompassBot has indexed your property, you are entitled to access the raw intelligence we have gathered at no cost.
+
+**What we share with Site Owners:**
+You may request a full export of the raw JSON data we hold regarding your domain, which often includes:
+* **Technology Fingerprint:** Detailed breakdown of detected frameworks, CMS, and analytics stacks.
+* **Accessibility Report:** Severity-based contrast and CVD (Color Vision Deficiency) analysis.
+* **Performance Metrics:** Font loading strategies and resource optimization opportunities.
+
+**How to Request Your Data:**
+Email bot@wizardcompass.com with the subject line `Data Request: [Your Domain]`.
+
+*Note: To protect the privacy of your infrastructure data, we require domain ownership verification (typically via a simple DNS TXT record or an email sent from the domain itself) before releasing raw technical reports.*
+
 ## Engineering & Open Source DNA
 
 Wizard Compass is built by engineers who actively contribute to the standards that power the web. We don't just consume web data; we build the tools that measure and optimize it.
@@ -90,4 +106,4 @@ Our scraping philosophy and architecture are grounded in our maintainer's contri
 
 ### **Contact**
 
-For urgent inquiries regarding our crawler or to report an issue, please open an issue in our [Public Tracker](https://www.google.com/search?q=https://github.com/wizardcompass/.github/issues) or email us at [bot@wizardcompass.com](mailto:bot@wizardcompass.com).
+For urgent inquiries regarding our crawler or to report an issue, please open an issue in our [Public Tracker](https://github.com/wizardcompass/.github/issues) or email us at bot@wizardcompass.com.

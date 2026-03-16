@@ -68,7 +68,7 @@ Disallow: /
 While our core indexing engine is proprietary, we are committed to contributing back to the ecosystem. We maintain open-source definitions for technology fingerprinting and publish research on web standards adoption.
 
 - **GitHub:** [github.com/wizardcompass](https://github.com/wizardcompass)
-- **Website:** [wizardcompass.com](https://wizardcompass.com)
+- **Website:** [leopoletto.dev](https://leopoletto.dev)
 
 ## Data Access & Transparency
 
@@ -81,7 +81,7 @@ You may request a full export of the raw JSON data we hold regarding your domain
 * **Performance Metrics:** Font loading strategies and resource optimization opportunities.
 
 **How to Request Your Data:**
-Email bot@wizardcompass.com with the subject line `Data Request: [Your Domain]`.
+Email bot@leopoletto.dev with the subject line `Data Request: [Your Domain]`.
 
 *Note: To protect the privacy of your infrastructure data, we require domain ownership verification (typically via a simple DNS TXT record or an email sent from the domain itself) before releasing raw technical reports.*
 
@@ -106,4 +106,4 @@ Our scraping philosophy and architecture are grounded in our maintainer's contri
 
 ### **Contact**
 
-For urgent inquiries regarding our crawler or to report an issue, please open an issue in our [Public Tracker](https://github.com/wizardcompass/.github/issues) or email us at bot@wizardcompass.com.
+For urgent inquiries regarding our crawler or to report an issue, please open an issue in our [Public Tracker](https://github.com/wizardcompass/.github/issues) or email us at bot@leopoletto.dev.
